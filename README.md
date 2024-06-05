@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anshika-byte
 - 👀 I’m interested in MACHINE LEARNING
-- 🌱 I’m currently learning MACHINE LEARNING,DATA SCIENCE
+- 🌱 I’m currently learning MACHINE LEARNING,DATA SCIENCE,WEB DEVELOPMENT
 - 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me anshika.sharma190303@gmail.com
 
